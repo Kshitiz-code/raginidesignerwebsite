@@ -32,9 +32,10 @@
 						<!-- /.Item -->
 						<!-- Item -->
 						<div class="item col-sm-12 col-md-4">
-							<i class="flaticon-layers"></i>
+						<a href="services-event.php"><i class="flaticon-layers"></i>
 							<h3>Event Panning</h3>
 							<p>Marriages,Birthday and Many more.</p>
+                         </a>
 						</div>
 						<!-- /.Item -->
 						<!-- Item -->
