@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<h1>Ksitiz's Website</h1>
 <?php include 'files/header.php' ?>
         <!-- /.Sidebar  -->
         <!-- Page Content  -->
